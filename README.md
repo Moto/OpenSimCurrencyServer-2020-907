@@ -9,7 +9,7 @@ Now you can experiment with new things without having old messages.
 
     This is currently being tested with:
     opensim-0.9.2.0 Dev - 770 target vs2019 prebuild 4.8
-    Status works.
+    Status open.
 
 ## copy:
 
