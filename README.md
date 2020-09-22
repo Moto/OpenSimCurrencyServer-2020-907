@@ -22,6 +22,7 @@ copy helper to web (www/html/helper) - work in progress
 
 ### Linux: (Ubuntu 18.04 test server)
 
+    chmod +x runprebuild19.sh
     ./runprebuild19.sh
     msbuild /p:Configuration=Release
 
