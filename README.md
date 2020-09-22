@@ -15,7 +15,8 @@ copy bin to bin
 
 copy helper to web (www/html/helper) - work in progress
 
-    landtool.php works please insert the MySQL data in the landtool.php file. This landtool.php version is standalone.
+    landtool.php works please insert the MySQL data in the landtool.php file. 
+    This landtool.php version is standalone.
     currency.php work in progress.
 
 ## Building:
