@@ -7,6 +7,7 @@ DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is m
     opensim-0.9.2.0 Dev - 886 target vs2019 prebuild 4.8
     Status works.
     Test Grid: http://openmanniland.de:8002/
+    Test binary: http://www.mediafire.com/file/5us8iz8axv8xisw/opensim-0.9.2.886.zip/file
 
 ## copy:
 
