@@ -6,7 +6,7 @@ DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is m
     This is currently being tested with:
     opensim-0.9.2.0 Dev - 886 target vs2019 prebuild 4.8
     Status works.
-    Testing Grid: http://openmanniland.de:8002/
+    Test Grid: http://openmanniland.de:8002/
 
 ## copy:
 
