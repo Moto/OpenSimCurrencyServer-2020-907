@@ -8,7 +8,7 @@ DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is m
     Status works.
     Test Grid: http://openmanniland.de:8002/
     Viewer link: secondlife://http|!!openmanniland.de|8002+Welcome
-    Test OpenSimulator binary include MoneyServer Download: 
+    Test OpenSimulator binary include MoneyServer and 180 ossl script example Download: 
     http://www.mediafire.com/file/km60yeaa7w3hbhc/opensim-0.9.2.948.zip/file
  
 ## copy:
