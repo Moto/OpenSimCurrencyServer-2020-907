@@ -4,12 +4,12 @@ For the new OpeSimulator 0.9.2.0.770+ DEV
 DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is my test revision.
 
     This is currently being tested with:
-    opensim-0.9.2.0 Dev - 948 target vs2019 prebuild 4.8
+    opensim-0.9.2.0 Dev - 958 target vs2019 prebuild 4.8
     Status works.
     Test Grid: http://openmanniland.de:8002/
     Viewer link: secondlife://http|!!openmanniland.de|8002+Welcome
     Test OpenSimulator binary include MoneyServer and 180 ossl script example Download: 
-    http://www.mediafire.com/file/km60yeaa7w3hbhc/opensim-0.9.2.948.zip/file
+    http://www.mediafire.com/file/x2gh0nuhe37i14q/opensim-0.9.2.958.zip/file
  
 ## copy:
 
