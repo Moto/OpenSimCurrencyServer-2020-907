@@ -1,5 +1,5 @@
 # OpenSimCurrencyServer-907
-For the new OpeSimulator 0.9.2.0.770+ DEV
+For the new OpeSimulator 0.9.2.0 DEV
 
 DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is my test revision.
 
