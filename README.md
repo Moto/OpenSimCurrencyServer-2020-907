@@ -4,7 +4,7 @@ For the new OpeSimulator 0.9.2.0 DEV
 DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is my test revision.
 
     This is currently being tested with:
-    opensim-0.9.2.0 Dev - 976 target vs2019 prebuild 4.8
+    opensim-0.9.2.0 Dev - 979 target vs2019 prebuild 4.8
     Status works.
     Test Grid: http://openmanniland.de:8002/
     Viewer link: secondlife://http|!!openmanniland.de|8002+Welcome
